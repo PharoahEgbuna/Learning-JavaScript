@@ -48,4 +48,3 @@ console.log(deepComp(a,c)); //false
 console.log(deepComp(a,d)); //false
 console.log(deepComp(a,e)); //false
 console.log(deepComp(a,f)); //false
-
